@@ -12,11 +12,11 @@ This project implements a digital signal processing pipeline designed to extract
 
 ## 📈 Visualizations
 ### 1. Time-Domain Recovery
-![Time Domain Plot](<img width="1920" height="1073" alt="time_domain_analysis" src="https://github.com/user-attachments/assets/a79d4c80-4e6b-4c98-b4b5-8a7c025ec9b3" />)
+<img width="1920" height="1073" alt="time_domain_analysis" src="https://github.com/user-attachments/assets/1b5404d5-dc20-49fe-ae6e-8b4628959589" />
 *Comparison of the corrupted input vs. the recovered signal.*
 
 ### 2. Spectral Density Analysis
-![PSD Plot](<img width="1920" height="1073" alt="spectral_analysis" src="https://github.com/user-attachments/assets/26d49892-d008-4676-999c-d1b23b1ff957" />)
+<img width="1920" height="1073" alt="spectral_analysis" src="https://github.com/user-attachments/assets/29b3a23c-8be4-4c82-9119-32935f502b0a" />
 *Notice the significant attenuation of the 60Hz interference spikes.*
 
 ## 💻 How to Run

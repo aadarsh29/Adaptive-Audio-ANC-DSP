@@ -23,3 +23,6 @@ This project implements a digital signal processing pipeline designed to extract
 1. Open MATLAB.
 2. Ensure the 'DSP System Toolbox' is installed.
 3. Run `main_anc.m`.
+
+
+Note: This project utilizes the handel.mat sample included with the MATLAB Signal Processing Toolbox. No external audio files are required to run the demo.
